@@ -5,7 +5,7 @@ import EventsPage from "./pages/EventsPage";
 import Navbar from "./components/Navbar";
 import MoreEvents from "./pages/MoreEvents";
 
-import AllEvents from "./pages/AllEvents";
+// import AllEvents from "./pages/AllEvents";
 import EventDetails from "./pages/EventDetails";
 
 const App = () => {
@@ -18,8 +18,8 @@ const App = () => {
         <Route path="/PaymentAppFrontEnd" element={<HomePage />} />
         <Route path="/events" element={<EventsPage />} />
         <Route path="/moreEvents" element={<MoreEvents/>}/>
-        <Route path="/" element={<AllEvents />} />
-        <Route path="/event/:id" element={<EventDetails />} />~
+        {/* <Route path="/" element={<AllEvents />} > */}
+        <Route path="/event/:id" element={<EventDetails />} />
       </Routes>
     </Router>
   );
