@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PaymentApp/static/css/main.ba63f24a.css",
+    "main.js": "/PaymentApp/static/js/main.12f0916b.js",
+    "static/js/453.e5a23217.chunk.js": "/PaymentApp/static/js/453.e5a23217.chunk.js",
+    "static/media/raally3.png": "/PaymentApp/static/media/raally3.ace1e4b8180adaef9ac3.png",
+    "static/media/background.png": "/PaymentApp/static/media/background.8f8d88b93aebaf06f911.png",
+    "static/media/samyog_logo_letters.png": "/PaymentApp/static/media/samyog_logo_letters.999d9c8fe21866eeaeef.png",
+    "index.html": "/PaymentApp/index.html",
+    "main.ba63f24a.css.map": "/PaymentApp/static/css/main.ba63f24a.css.map",
+    "main.12f0916b.js.map": "/PaymentApp/static/js/main.12f0916b.js.map",
+    "453.e5a23217.chunk.js.map": "/PaymentApp/static/js/453.e5a23217.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba63f24a.css",
+    "static/js/main.12f0916b.js"
+  ]
+}
