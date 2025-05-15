@@ -27,6 +27,11 @@ const eventsData = {
         description: "Currently happening!",
         deadline: "Ongoing",
         image: "/assets/ongoing1.png",
+
+        title: "Ongoing Event 2",
+        description: "Currently happening!!!!!!!!!!!",
+        deadline: "Ongoing",
+        image: "/assets/ongoing1.png",
       }
     ],
     upcoming: [
