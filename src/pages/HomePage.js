@@ -15,7 +15,7 @@ const HomePage = () => {
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur debitis, nesciunt
             magnam dolorum illo dolores labore reprehenderit molestiae quos? Vero!
           </p>
-          <a href="/" className="explore">
+          <a href="/PaymentAppFrontEnd" className="explore">
             Explore
           </a>
         </div>

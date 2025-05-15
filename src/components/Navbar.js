@@ -7,8 +7,8 @@ const Navbar = () => {
   return (
     <nav>
       <ul className="nav_list">
-        <Link to="/" className="nav_item">Home</Link>
-        <Link to="events" className="nav_item">Clubs</Link>
+        <Link to="/PaymentAppFrontEnd" className="nav_item">Home</Link>
+        <Link to="/events" className="nav_item">Clubs</Link>
         <Link className="nav_item">Teams</Link>
         <Link className="nav_item">Events</Link>
       </ul>
