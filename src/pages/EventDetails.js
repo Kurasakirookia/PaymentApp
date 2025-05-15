@@ -76,7 +76,7 @@ const EventDetails = () => {
           <p className="poster_info">{event.info}</p>
           <h3>Deadline: {event.deadline}</h3>
           <div className="links">
-            <a href="/PaymentAppFrontEnd" className="link">Register</a>
+            <a href="/" className="link">Register</a>
             <button className="link">Copy Link</button>
           </div>
         </div>
@@ -86,3 +86,4 @@ const EventDetails = () => {
 };
 
 export default EventDetails;
+
