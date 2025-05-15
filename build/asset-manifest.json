@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/PaymentAppFrontEnd/static/css/main.0993a264.css",
-    "main.js": "/PaymentAppFrontEnd/static/js/main.4f94a6a8.js",
+    "main.js": "/PaymentAppFrontEnd/static/js/main.aa8a9ce1.js",
     "static/js/453.e5a23217.chunk.js": "/PaymentAppFrontEnd/static/js/453.e5a23217.chunk.js",
     "static/media/raally3.png": "/PaymentAppFrontEnd/static/media/raally3.ace1e4b8180adaef9ac3.png",
     "static/media/background.png": "/PaymentAppFrontEnd/static/media/background.8f8d88b93aebaf06f911.png",
     "static/media/samyog_logo_letters.png": "/PaymentAppFrontEnd/static/media/samyog_logo_letters.999d9c8fe21866eeaeef.png",
     "index.html": "/PaymentAppFrontEnd/index.html",
     "main.0993a264.css.map": "/PaymentAppFrontEnd/static/css/main.0993a264.css.map",
-    "main.4f94a6a8.js.map": "/PaymentAppFrontEnd/static/js/main.4f94a6a8.js.map",
+    "main.aa8a9ce1.js.map": "/PaymentAppFrontEnd/static/js/main.aa8a9ce1.js.map",
     "453.e5a23217.chunk.js.map": "/PaymentAppFrontEnd/static/js/453.e5a23217.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0993a264.css",
-    "static/js/main.4f94a6a8.js"
+    "static/js/main.aa8a9ce1.js"
   ]
 }
