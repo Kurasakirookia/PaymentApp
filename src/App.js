@@ -15,7 +15,7 @@ const App = () => {
       <Navbar />
      
       <Routes>
-        <Route path="/PaymentApp" element={<HomePage />} />
+        <Route path="/PaymentAppFrontEnd" element={<HomePage />} />
         <Route path="/events" element={<EventsPage />} />
         <Route path="/moreEvents" element={<MoreEvents/>}/>
         <Route path="/" element={<AllEvents />} />
